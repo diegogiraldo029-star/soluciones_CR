@@ -6,3 +6,4 @@ streamlit
 plotly
 supabase
 python-docx
+PyMuPDF
