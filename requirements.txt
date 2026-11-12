@@ -1,0 +1,8 @@
+pandas
+openpyxl
+fpdf2
+python-dateutil
+streamlit
+plotly
+supabase
+python-docx
